@@ -35,13 +35,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MassimoPeruga/MassimoPeruga/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h4 align="left">Hello World!!</h4>
-
-###
