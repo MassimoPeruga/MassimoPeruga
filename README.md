@@ -76,6 +76,11 @@ Here you'll also find projects from my development training. My portfolio docume
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" height="30" alt="Postman" title="Postman" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" width="30" height="30" alt="Sentry" title="Sentry" />
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/codex_dark.svg" />
+    <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/codex_light.svg" width="30" height="30" alt="Codex" title="Codex" />
+  </picture>
 </p>
 
 #### Testing & CI/CD
