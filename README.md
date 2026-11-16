@@ -1,6 +1,4 @@
-# Massimo Peruga
-
-**Full Stack Developer**
+<img src="./assets/banner.svg" width="100%" alt="Massimo Peruga — Full Stack Developer" />
 
 I work on Creators Pro, a platform for content production and media management.
 
@@ -8,12 +6,22 @@ I started on the native iOS app, working as the team's sole Swift developer for 
 
 Here you'll also find projects from my development training. My portfolio documents my professional work through case studies and demos.
 
-[Content Management case study](https://massimoperuga.dev/en/casi-studio/creators-pro-content-management) · [iOS uploads and media recovery](https://massimoperuga.dev/en/casi-studio/creators-pro-upload)
+<p>
+  <a href="https://massimoperuga.dev/en/casi-studio/creators-pro-content-management"><img src="./assets/case-content.svg" width="390" alt="Creators Pro — Content Management: web, APIs and data. Explore the case study." /></a>
+  <a href="https://massimoperuga.dev/en/casi-studio/creators-pro-upload"><img src="./assets/case-upload.svg" width="390" alt="Creators Pro — Media recovery: iOS, uploads and debugging. Explore the case study." /></a>
+</p>
 
-#### Frontend
+<img src="./assets/divider.svg" width="100%" height="2" alt="" />
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" title="React" />
+### Technologies I work with
+
+<table width="100%">
+<tbody>
+<tr>
+<td width="50%" valign="top">
+<h4>Frontend</h4>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" title="React" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript" title="TypeScript" />
   &nbsp;&nbsp;
@@ -25,11 +33,11 @@ Here you'll also find projects from my development training. My portfolio docume
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="30" height="30" alt="Vite" title="Vite" />
 </p>
-
-#### Backend & Databases
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js" title="Node.js" />
+</td>
+<td width="50%" valign="top">
+<h4>Backend & Databases</h4>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js" title="Node.js" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="30" height="30" alt="NestJS" title="NestJS" />
   &nbsp;&nbsp;
@@ -45,31 +53,35 @@ Here you'll also find projects from my development training. My portfolio docume
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL" title="MySQL" />
 </p>
-
-#### Mobile
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30" height="30" alt="Swift" title="Swift" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>Mobile</h4>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30" height="30" alt="Swift" title="Swift" />
   &nbsp;&nbsp;
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="30" height="30" alt="SwiftUI" title="SwiftUI" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" width="30" height="30" alt="Capacitor" title="Capacitor" />
 </p>
-
-#### Cloud & Integrations
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30" alt="Google Cloud" title="Google Cloud" />
+</td>
+<td width="50%" valign="top">
+<h4>Cloud & Integrations</h4>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30" alt="Google Cloud" title="Google Cloud" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="30" height="30" alt="Cloudflare" title="Cloudflare" />
   &nbsp;&nbsp;
   <img src="./assets/airtable.svg" width="30" height="30" alt="Airtable" title="Airtable" />
 </p>
-
-#### Development Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" title="Git" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>Development Tools</h4>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" title="Git" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker" title="Docker" />
   &nbsp;&nbsp;
@@ -82,12 +94,30 @@ Here you'll also find projects from my development training. My portfolio docume
     <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/codex_light.svg" width="30" height="30" alt="Codex" title="Codex" />
   </picture>
 </p>
-
-#### Testing & CI/CD
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="30" height="30" alt="Playwright" title="Playwright" />
+</td>
+<td width="50%" valign="top">
+<h4>Testing & CI/CD</h4>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="30" height="30" alt="Playwright" title="Playwright" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="30" height="30" alt="GitHub Actions" title="GitHub Actions" />
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 
+<img src="./assets/divider.svg" width="100%" height="2" alt="" />
+
+### GitHub activity
+
+Since completing my training in 2024, all of my professional work has been carried out in private repositories owned by external organizations that I can no longer access. That work is not included in the statistics shown here.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/generated/activity-mobile.svg" />
+  <img src="./assets/generated/activity.svg" width="100%" alt="GitHub activity: public original repositories, calendar contributions and active days, followed by a Tetris animation of the contribution calendar. These statistics exclude my professional work in external private repositories." />
+</picture>
+
+<img src="./assets/divider.svg" width="100%" height="2" alt="" />
+
+**MP.** · [More context, decisions and demos on my portfolio ↗](https://massimoperuga.dev/en)

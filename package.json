@@ -1,0 +1,8 @@
+{
+  "name": "massimoperuga-profile",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": { "generate": "node scripts/generate-profile-assets.mjs" },
+  "dependencies": { "pacman-contribution-graph": "5.5.2" }
+}

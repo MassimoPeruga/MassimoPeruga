@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Massimo Peruga, Full Stack Developer">
+<rect width="1000" height="300" fill="#242321"/>
+<text x="40" y="52" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing="-2" fill="#f2ede3">MP<tspan fill="#ef9463">.</tspan></text>
+<text x="40" y="103" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2" fill="#f2ede3">MASSIMO PERUGA</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-2.4">
+<text x="36" y="173" fill="#f2ede3">Full Stack</text>
+<text x="36" y="241" fill="#f2ede3">Developer<tspan fill="#ef9463">.</tspan></text></g>
+<circle cx="765" cy="100" r="61" fill="#f2ede3"/>
+<path d="M704 178C752 178 795 218 795 269C746 269 704 230 704 178Z" fill="#ef9463"/>
+<path d="M839 145L956 262H839Z" fill="#f2ede3"/>
+<path d="M40 278H960" stroke="#f2ede3" stroke-opacity=".18"/>
+</svg>
