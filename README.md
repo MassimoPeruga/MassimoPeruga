@@ -32,6 +32,7 @@ Here you'll also find projects from my development training. My portfolio docume
   <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/tanstack_light.svg" width="30" height="30" alt="TanStack" title="TanStack" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="30" height="30" alt="Vite" title="Vite" />
+  <img src="./assets/table-spacer.svg" width="1000" height="1" alt="" />
 </p>
 </td>
 <td width="50%" valign="top">
@@ -52,6 +53,7 @@ Here you'll also find projects from my development training. My portfolio docume
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL" title="PostgreSQL" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL" title="MySQL" />
+  <img src="./assets/table-spacer.svg" width="1000" height="1" alt="" />
 </p>
 </td>
 </tr>
