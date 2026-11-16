@@ -6,10 +6,7 @@ I started on the native iOS app, working as the team's sole Swift developer for 
 
 Here you'll also find projects from my development training. My portfolio documents my professional work through case studies and demos.
 
-<p>
-  <a href="https://massimoperuga.dev/en/casi-studio/creators-pro-content-management"><img src="./assets/case-content.svg" width="390" alt="Creators Pro — Content Management: web, APIs and data. Explore the case study." /></a>
-  <a href="https://massimoperuga.dev/en/casi-studio/creators-pro-upload"><img src="./assets/case-upload.svg" width="390" alt="Creators Pro — Media recovery: iOS, uploads and debugging. Explore the case study." /></a>
-</p>
+<p><a href="https://massimoperuga.dev/en/casi-studio/creators-pro-content-management"><picture><source media="(max-width: 767px)" srcset="./assets/hidden.svg" /><img src="./assets/case-content-desktop.svg" width="50%" alt="Creators Pro — Content Management: web, APIs and data. Explore the case study." /></picture></a><a href="https://massimoperuga.dev/en/casi-studio/creators-pro-upload"><picture><source media="(max-width: 767px)" srcset="./assets/hidden.svg" /><img src="./assets/case-upload-desktop.svg" width="50%" alt="Creators Pro — Media recovery: iOS, uploads and debugging. Explore the case study." /></picture></a><a href="https://massimoperuga.dev/en/casi-studio/creators-pro-content-management"><picture><source media="(min-width: 768px)" srcset="./assets/hidden.svg" /><img src="./assets/case-content-mobile.svg" alt="Creators Pro — Content Management: web, APIs and data. Explore the case study." /></picture></a><a href="https://massimoperuga.dev/en/casi-studio/creators-pro-upload"><picture><source media="(min-width: 768px)" srcset="./assets/hidden.svg" /><img src="./assets/case-upload-mobile.svg" alt="Creators Pro — Media recovery: iOS, uploads and debugging. Explore the case study." /></picture></a></p>
 
 <img src="./assets/divider.svg" width="100%" height="2" alt="" />
 
