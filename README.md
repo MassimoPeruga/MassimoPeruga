@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Massimo Peruga — Full Stack Developer" />
+<img src="./assets/banner.svg" width="100%" alt="Massimo Peruga — Full Stack &amp; iOS Developer" />
 
 I work on Creators Pro, a platform for content production and media management.
 
