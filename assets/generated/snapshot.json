@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-20",
+  "capturedAt": "2026-11-21",
   "data": {
     "user": {
       "contributionsCollection": {
@@ -2432,6 +2432,12 @@
                 },
                 {
                   "date": "2026-11-20",
+                  "contributionCount": 0,
+                  "color": "#ebedf0",
+                  "contributionLevel": "NONE"
+                },
+                {
+                  "date": "2026-11-21",
                   "contributionCount": 0,
                   "color": "#ebedf0",
                   "contributionLevel": "NONE"
